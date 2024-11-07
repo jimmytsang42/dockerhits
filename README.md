@@ -16,7 +16,7 @@
 
 6. Install cygwin https://www.cygwin.com/
 
-7. In cygwin type: `cd /cygdrive/path/to/tomcat/webapps/hits`
+7. In cygwin type: `cd /cygdrive/path/to/tomcat/webapps/dockerhits`
 
 8. Next, type `docker build -t hits .`
 
